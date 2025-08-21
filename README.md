@@ -51,6 +51,8 @@ A motivated and detail-oriented engineering graduate with a strong passion for s
 | [AI-Powered Chatbot Application](https://github.com/asvms2004/Chatbot-AI) | HTML, CSS, JavaScript, Gemini API | Built an interactive chatbot with smart, AI-powered responses. |
 | [Online Shopping Platform](https://github.com/asvms2004/e-commerce-website) | HTML, CSS, Modern JavaScript | Engineered a responsive e-commerce site with an interactive UI and dynamic content rendering. |
 | [Personal Portfolio Website](https://github.com/asvms2004/Personal-Portfolio) | HTML, CSS, JavaScript | A responsive portfolio to showcase my skills and projects. |
+| [Stone-Paper-Scissors-Game](https://github.com/asvms2004/Stone-Paper-Scissors-Game) | HTML, CSS, JavaScript |A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. The project provides an interactive UI where players can choose their move and play against the computer, with instant results displayed. This project helped me practice DOM manipulation, styling, and basic game logic in JavaScript.|
+
 
 ---
 
